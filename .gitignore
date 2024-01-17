@@ -64,9 +64,20 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Firebase
+/[Aa]ssets/Firebase
+/[Aa]ssets/PlayServicesResolver
+/[Aa]ssets/Plugins/Editor/Firebase
+/[Aa]ssets/Plugins/Firebase
+
 # Packed Addressables
 /[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
 
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+/Packages/com*
+
+/.idea/*
+*.DS_Store
